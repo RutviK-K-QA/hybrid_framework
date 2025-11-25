@@ -1,0 +1,116 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Pytest
+.pytest_cache/
+.cache/
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+
+# Logs
+*.log
+logs/
+*.out
+
+# Reports
+reports/
+Screenshots/
+allure-results/
+allure-report/
+*.html
+*.xml
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.directory
+
+# Playwright
+playwright-report/
+test-results/
+
+# Environment variables
+.env
+.env.local
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+
+# Java (keep for reference)
+target/
+*.class
+.classpath
+.project
+.settings/
+*.jar
+*.war
+*.ear
+
+# Node (if using any JS tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Credentials (DO NOT COMMIT)
+*credentials*
+*secrets*
+*password*
+*token*
+*.pem
+*.key
+
+# Test data that shouldn't be committed
+test-data/sensitive/

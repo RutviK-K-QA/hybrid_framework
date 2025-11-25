@@ -1,0 +1,13 @@
+Element Name,Locator
+txtUsername,input[formcontrolname='userName']
+lnkAzureAd,"//a[contains(@href,'azureadlogin')]"
+lblLoginUnsuccessfulMessage,//div[@class='loginErrorData']//p[2]
+btnLogin,//input[@class='loginFormBtn']
+lblForgotSuccessTitle,//div[@class='loginInfoData']//p[1]
+lnkForgotPassword,//a[@routerlink='forgot']
+lblLoginUnsuccessful,//div[@class='loginErrorData']//p[1]
+lblForgotSuccessMessage,//div[@class='loginInfoData']//p[2]
+lblForgotPasswordMessage,.loginInfoData>p
+txtPassword,//input[@name='password']
+txtMfaCode,input[name='mfaScanedCode']
+btnMfaSubmit,input.mfaVerifyBtn
