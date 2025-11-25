@@ -1,6 +1,6 @@
 # Hybrid Automation Framework Sample
 
-A modern Python async Playwright automation framework with AI-powered self-healing capabilities, built for reliable web application testing.
+A modern Python async Playwright automation framework, built for maintainable, reliable, and scalable web application testing while being easy to use, maintain, and extend. With Agentic-AI, these type of requirement specific frameworks can be built in a matter of days and deployed within weeks. Gone are the days of writing code, with playwright MCP combined with agentic-ai, we can write complex E2E tests in plain English under minutes (depending on complexity). Witness the magic of Agentic-AI.
 
 ## 🚀 Features
 
