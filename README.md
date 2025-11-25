@@ -6,11 +6,14 @@ A modern Python async Playwright automation framework with AI-powered self-heali
 
 - **Async Playwright** - Fast, reliable browser automation
 - **Page Object Model** - Clean, maintainable test architecture
-- **AI Self-Healing** - Automatic locator correction using OpenAI
+- **Self-Healing** - Automatic locator correction using custom logic. (Removed from current version due to proprietary logic.)
 - **CSV Locator Repository** - Centralized element management
 - **Allure Reporting** - Beautiful, detailed test reports
 - **Multi-browser Support** - Chrome, Chromium, Firefox, WebKit
 - **Easy Configuration** - Properties-based setup
+- **Modular Structure** - Test classes, fixtures, and methods
+- **CI/CD Integration** - GitHub Actions / Jenkins ready
+
 
 ## 📁 Project Structure
 
