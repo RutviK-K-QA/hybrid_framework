@@ -52,11 +52,14 @@ coverage.xml
 
 # Logs
 *.log
+!logs/.gitkeep
 logs/
 *.out
 
 # Reports
+!reports/.gitkeep
 reports/
+!screenshots/.gitkeep
 Screenshots/
 allure-results/
 allure-report/
