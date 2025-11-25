@@ -1,4 +1,4 @@
-# RAAPID Automation Framework
+# Hybrid Automation Framework Sample
 
 A modern Python async Playwright automation framework with AI-powered self-healing capabilities, built for reliable web application testing.
 
@@ -592,9 +592,9 @@ jobs:
 - Review test reports in `reports/` directory
 - See `QUICK_START.md` for common commands
 
-## 📄 License
+## 📄 Creator
 
-Proprietary - RAAPID Inc.
+Rutvik Khorasiya
 
 ---
 
